@@ -2,9 +2,9 @@ using System;
 
 namespace ASSIGNMENT2.AbstractClasses
 {
-    public class AbstractDemo
+    public class AbstractClasses
     {
-        static void Main(string[] args)
+        public static void Run()
         {
             Console.WriteLine("=== Abstract Classes and Methods ===");
 
