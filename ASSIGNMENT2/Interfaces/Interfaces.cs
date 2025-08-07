@@ -1,10 +1,8 @@
-using System;
-
 namespace ASSIGNMENT2.Interfaces
 {
     public class Interfaces
     {
-        static void Main(string[] args)
+        public static void Run()
         {
             Console.WriteLine("=== Interfaces ===");
 

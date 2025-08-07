@@ -1,5 +1,3 @@
-using System;
-
 namespace ASSIGNMENT2.AbstractClasses
 {
     public class AbstractClasses
